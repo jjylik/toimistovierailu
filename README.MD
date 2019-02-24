@@ -16,7 +16,7 @@ Ominasuuksia voi olla esim:
   - Putkinäyttöefekti
   - ???
 
-# Vaihtoehto 2: Koodaa hittibiisi #nextavicii
+# Vaihtoehto 2: Koodaa hittibiisi #nextdavidguetta
 
 https://sonic-pi.net/
 
