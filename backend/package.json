@@ -1,0 +1,18 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Proxy to gcp",
+  "main": "index.js",
+  "author": "JY",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "@google-cloud/vision": "^1.5.0",
+    "fastify": "^2.10.0",
+    "install": "^0.13.0",
+    "npm": "^6.12.1"
+  }
+}
