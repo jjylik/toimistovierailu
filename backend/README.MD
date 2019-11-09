@@ -6,6 +6,7 @@ Call GCP Cloud vision label and face detection APIs
 
 ### Set service account file environment variable
 Linux/Mac```export GOOGLE_APPLICATION_CREDENTIALS="[PATH_TO_FILE]"```
+
 Windows: ```set GOOGLE_APPLICATION_CREDENTIALS=[PATH_TO_FILE]```
 
 ### Using YARN
