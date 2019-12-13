@@ -13,6 +13,6 @@
     "@google-cloud/vision": "^1.5.0",
     "fastify": "^2.10.0",
     "install": "^0.13.0",
-    "npm": "^6.12.1"
+    "npm": "^6.13.4"
   }
 }
